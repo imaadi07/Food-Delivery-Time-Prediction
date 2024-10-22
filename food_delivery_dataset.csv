@@ -1,0 +1,701 @@
+Restaurant,Location,Cuisines,Average_Cost,Minimum_Order,Rating,Votes,Reviews,Delivery Time
+Sector 62,"Indiranagar, Bangalore",Indian,202,216,4.9,325,28,55.0
+FTI College,"Marathalli, Bangalore",Italian,448,140,4.4,813,212,
+FTI College,"Law College Road, Pune",Continental,370,251,1.5,497,282,30.0
+Sector 62,"Marathalli, Bangalore",Indian,206,139,4.7,363,49,52.0
+Sector 62,"Indiranagar, Bangalore",Mexican,171,68,4.5,890,94,
+Marathalli,"Law College Road, Pune",Continental,288,88,3.1,426,87,42.0
+FTI College,Gurgaon,Chinese,120,175,3.4,20,43,34.0
+FTI College,Gurgaon,Chinese,202,244,2.6,406,277,46.0
+Sector 3,Gurgaon,Chinese,221,222,1.2,618,170,30.0
+FTI College,"Indiranagar, Bangalore",Continental,314,190,2.3,335,188,36.0
+Marathalli,"Marathalli, Bangalore",Continental,430,291,4.2,814,183,
+Sector 3,"Law College Road, Pune",Continental,187,269,1.0,116,2,46.0
+Sector 3,Gurgaon,Indian,472,175,2.3,123,190,37.0
+Sector 3,"Law College Road, Pune",Indian,199,107,2.6,398,117,47.0
+Sector 62,"Indiranagar, Bangalore",Chinese,459,197,3.1,792,18,23.0
+Sector 62,Gurgaon,Italian,251,269,4.7,803,22,26.0
+FTI College,"Indiranagar, Bangalore",Chinese,230,249,2.4,714,29,54.0
+Sector 3,"Marathalli, Bangalore",Mexican,249,110,2.4,50,294,28.0
+Marathalli,"Indiranagar, Bangalore",Indian,408,176,4.0,782,107,27.0
+Sector 62,"Indiranagar, Bangalore",Continental,357,154,2.8,323,280,36.0
+Marathalli,"Marathalli, Bangalore",Indian,443,216,1.9,788,127,36.0
+Marathalli,"Law College Road, Pune",Continental,393,50,2.8,140,228,52.0
+Sector 62,"Marathalli, Bangalore",Mexican,485,180,1.6,469,110,51.0
+Sector 62,"Marathalli, Bangalore",Mexican,291,254,1.7,786,135,27.0
+Sector 62,"Indiranagar, Bangalore",Indian,376,141,3.0,801,185,38.0
+Sector 62,"Law College Road, Pune",Continental,260,239,2.7,333,143,57.0
+Sector 3,Gurgaon,Mexican,413,298,4.7,892,71,22.0
+Sector 3,"Marathalli, Bangalore",Chinese,121,240,2.4,963,128,24.0
+Sector 3,"Law College Road, Pune",Chinese,352,162,3.3,372,260,32.0
+Sector 3,"Marathalli, Bangalore",Continental,335,202,3.5,563,2,50.0
+FTI College,"Marathalli, Bangalore",Indian,444,105,1.1,493,103,
+Sector 3,"Marathalli, Bangalore",Mexican,148,210,3.7,538,223,51.0
+Sector 62,"Marathalli, Bangalore",Indian,158,215,1.7,668,9,41.0
+Marathalli,"Indiranagar, Bangalore",Chinese,269,166,4.8,750,230,48.0
+Sector 3,"Law College Road, Pune",Mexican,287,183,1.6,155,218,41.0
+FTI College,"Law College Road, Pune",Indian,370,107,2.7,290,65,22.0
+Sector 62,"Law College Road, Pune",Italian,289,93,1.3,647,111,29.0
+Marathalli,"Marathalli, Bangalore",Continental,274,222,5.0,143,12,40.0
+Marathalli,"Indiranagar, Bangalore",Continental,150,209,3.0,105,85,35.0
+Sector 3,"Marathalli, Bangalore",Italian,463,222,3.4,419,233,31.0
+Marathalli,"Marathalli, Bangalore",Chinese,154,110,1.3,669,89,21.0
+Sector 3,"Law College Road, Pune",Mexican,343,96,4.0,657,53,43.0
+Sector 3,"Marathalli, Bangalore",Continental,419,198,1.8,1,11,54.0
+Sector 62,Gurgaon,Italian,230,129,4.6,944,208,49.0
+Sector 62,"Marathalli, Bangalore",Italian,406,167,1.8,588,13,49.0
+FTI College,Gurgaon,Chinese,234,262,1.8,643,120,54.0
+Sector 62,"Marathalli, Bangalore",Chinese,120,252,1.1,89,19,38.0
+Sector 62,"Indiranagar, Bangalore",Indian,428,278,2.9,344,74,27.0
+Sector 3,"Indiranagar, Bangalore",Continental,266,213,3.3,349,242,45.0
+Sector 62,"Law College Road, Pune",Indian,373,276,1.3,458,222,59.0
+Sector 3,"Marathalli, Bangalore",Italian,487,196,4.1,262,69,26.0
+Sector 3,Gurgaon,Mexican,188,69,2.8,350,210,49.0
+Sector 62,Gurgaon,Mexican,415,234,3.1,107,100,26.0
+FTI College,"Marathalli, Bangalore",Chinese,113,195,2.8,585,185,22.0
+FTI College,Gurgaon,Mexican,341,96,2.6,38,131,20.0
+Marathalli,"Indiranagar, Bangalore",Mexican,364,282,3.2,908,110,55.0
+Marathalli,Gurgaon,Mexican,445,98,1.6,158,131,44.0
+Sector 62,"Law College Road, Pune",Italian,152,63,1.7,582,19,56.0
+FTI College,"Indiranagar, Bangalore",Mexican,485,192,4.4,958,23,20.0
+Sector 3,"Indiranagar, Bangalore",Mexican,439,208,4.8,311,226,34.0
+Marathalli,"Indiranagar, Bangalore",Mexican,191,50,2.5,240,153,56.0
+Sector 3,"Marathalli, Bangalore",Indian,466,166,2.1,937,292,32.0
+Marathalli,"Marathalli, Bangalore",Italian,363,103,3.6,444,229,59.0
+Sector 62,"Indiranagar, Bangalore",Chinese,134,167,2.6,297,201,27.0
+FTI College,"Marathalli, Bangalore",Indian,305,52,1.1,951,37,24.0
+Marathalli,Gurgaon,Continental,180,193,1.6,35,259,28.0
+FTI College,"Marathalli, Bangalore",Italian,149,264,3.9,83,187,20.0
+Sector 3,"Marathalli, Bangalore",Italian,459,234,3.6,451,56,55.0
+Sector 62,"Indiranagar, Bangalore",Continental,487,252,1.1,885,19,54.0
+FTI College,"Law College Road, Pune",Continental,101,61,1.9,774,272,21.0
+Sector 62,"Law College Road, Pune",Continental,489,123,1.9,821,118,59.0
+FTI College,"Law College Road, Pune",Chinese,153,273,3.7,384,70,42.0
+Sector 3,Gurgaon,Mexican,205,65,1.1,171,3,28.0
+Sector 3,"Marathalli, Bangalore",Italian,359,249,1.4,375,220,53.0
+Sector 62,"Law College Road, Pune",Mexican,409,151,4.2,684,13,33.0
+Sector 3,"Indiranagar, Bangalore",Mexican,290,253,1.7,361,2,23.0
+Marathalli,"Law College Road, Pune",Continental,317,201,3.6,558,215,49.0
+FTI College,"Law College Road, Pune",Chinese,143,205,2.0,890,228,50.0
+Sector 3,"Marathalli, Bangalore",Indian,261,166,1.4,140,185,57.0
+Marathalli,"Marathalli, Bangalore",Chinese,301,57,2.0,886,54,30.0
+Sector 62,"Marathalli, Bangalore",Mexican,369,171,3.9,917,253,54.0
+Marathalli,Gurgaon,Chinese,450,141,4.4,117,23,27.0
+Sector 62,Gurgaon,Continental,403,213,4.3,276,161,22.0
+Sector 62,"Law College Road, Pune",Indian,370,139,2.6,725,157,33.0
+FTI College,"Marathalli, Bangalore",Continental,314,185,3.7,219,81,32.0
+FTI College,"Law College Road, Pune",Indian,351,235,1.8,904,158,51.0
+Marathalli,"Indiranagar, Bangalore",Mexican,289,109,2.2,25,187,53.0
+FTI College,"Indiranagar, Bangalore",Indian,395,227,4.6,520,59,38.0
+FTI College,"Marathalli, Bangalore",Indian,312,77,1.1,782,210,57.0
+FTI College,"Marathalli, Bangalore",Indian,307,269,1.3,9,151,35.0
+Marathalli,"Indiranagar, Bangalore",Chinese,336,150,1.8,983,108,21.0
+Sector 3,"Marathalli, Bangalore",Chinese,437,90,1.1,377,75,59.0
+FTI College,Gurgaon,Mexican,466,277,1.7,632,29,36.0
+FTI College,Gurgaon,Indian,152,241,3.3,636,116,53.0
+Marathalli,"Marathalli, Bangalore",Italian,379,204,2.7,681,191,35.0
+Sector 3,"Indiranagar, Bangalore",Mexican,316,295,4.6,583,18,57.0
+FTI College,"Law College Road, Pune",Indian,351,240,4.3,151,172,21.0
+Sector 62,"Marathalli, Bangalore",Indian,287,194,2.4,719,227,21.0
+Marathalli,"Marathalli, Bangalore",Chinese,479,250,2.0,48,182,45.0
+FTI College,"Law College Road, Pune",Mexican,140,210,2.5,153,112,32.0
+FTI College,"Marathalli, Bangalore",Indian,256,294,3.4,858,182,50.0
+Sector 62,"Law College Road, Pune",Indian,114,261,2.1,292,145,
+Sector 62,"Indiranagar, Bangalore",Mexican,400,254,3.5,579,115,58.0
+Marathalli,Gurgaon,Italian,164,269,2.6,49,112,22.0
+Marathalli,"Indiranagar, Bangalore",Mexican,444,289,3.2,663,250,27.0
+Sector 62,Gurgaon,Mexican,426,206,2.7,530,250,42.0
+Marathalli,"Law College Road, Pune",Italian,108,190,2.2,611,117,33.0
+Sector 62,Gurgaon,Mexican,443,95,4.8,59,160,46.0
+FTI College,"Indiranagar, Bangalore",Indian,228,84,4.1,166,197,48.0
+Sector 62,Gurgaon,Mexican,235,183,1.6,201,259,58.0
+Sector 62,"Law College Road, Pune",Italian,162,131,4.5,856,147,58.0
+Sector 3,Gurgaon,Continental,238,164,2.9,145,239,20.0
+Sector 62,"Marathalli, Bangalore",Mexican,180,246,4.6,914,46,36.0
+Sector 62,"Indiranagar, Bangalore",Chinese,491,96,4.2,675,197,49.0
+Sector 3,"Marathalli, Bangalore",Indian,262,202,2.7,969,46,32.0
+Marathalli,"Law College Road, Pune",Indian,388,243,1.1,992,77,40.0
+Sector 3,Gurgaon,Chinese,478,59,2.1,438,123,38.0
+FTI College,"Marathalli, Bangalore",Chinese,360,105,3.2,241,74,38.0
+Sector 3,"Marathalli, Bangalore",Mexican,330,79,3.5,580,136,44.0
+FTI College,Gurgaon,Chinese,140,291,2.0,686,89,41.0
+Marathalli,Gurgaon,Continental,127,158,1.6,560,60,50.0
+Sector 3,"Indiranagar, Bangalore",Italian,234,54,4.3,482,137,36.0
+Sector 3,"Marathalli, Bangalore",Chinese,300,168,4.9,107,49,42.0
+Marathalli,"Marathalli, Bangalore",Chinese,427,297,3.1,225,258,51.0
+FTI College,"Law College Road, Pune",Continental,367,82,1.7,672,106,
+Sector 3,"Indiranagar, Bangalore",Indian,132,167,2.1,630,112,29.0
+FTI College,"Law College Road, Pune",Indian,147,114,1.1,660,253,55.0
+Sector 3,"Marathalli, Bangalore",Mexican,161,195,4.7,976,117,27.0
+Sector 62,"Law College Road, Pune",Continental,315,273,1.5,661,197,39.0
+Sector 3,"Marathalli, Bangalore",Italian,392,288,3.3,431,50,51.0
+Marathalli,"Marathalli, Bangalore",Italian,198,226,2.1,804,244,33.0
+Marathalli,"Law College Road, Pune",Continental,271,60,3.2,654,34,47.0
+FTI College,"Law College Road, Pune",Italian,459,134,3.6,418,68,43.0
+Sector 3,Gurgaon,Indian,313,75,4.3,987,48,34.0
+FTI College,Gurgaon,Italian,134,112,1.8,454,73,41.0
+FTI College,Gurgaon,Italian,326,266,1.0,159,191,49.0
+Sector 62,"Marathalli, Bangalore",Continental,200,135,1.5,522,260,23.0
+Sector 62,"Law College Road, Pune",Continental,230,108,4.6,649,69,32.0
+Marathalli,"Indiranagar, Bangalore",Italian,356,76,4.5,968,89,
+FTI College,"Marathalli, Bangalore",Chinese,104,226,3.4,589,259,27.0
+Marathalli,"Indiranagar, Bangalore",Continental,317,254,3.4,76,125,37.0
+Sector 3,"Law College Road, Pune",Mexican,354,210,3.7,508,230,31.0
+FTI College,"Marathalli, Bangalore",Mexican,497,147,1.7,440,294,50.0
+FTI College,"Indiranagar, Bangalore",Indian,458,154,4.7,253,128,33.0
+Sector 3,"Indiranagar, Bangalore",Italian,382,148,2.7,920,279,53.0
+Sector 3,Gurgaon,Chinese,492,178,2.5,769,99,37.0
+Marathalli,Gurgaon,Indian,306,198,3.1,319,296,53.0
+Marathalli,Gurgaon,Italian,114,289,1.2,802,181,30.0
+Sector 3,"Marathalli, Bangalore",Continental,445,104,1.7,262,173,31.0
+Marathalli,"Law College Road, Pune",Mexican,141,55,4.0,596,187,34.0
+Sector 3,"Law College Road, Pune",Chinese,479,269,1.3,657,56,50.0
+FTI College,Gurgaon,Mexican,278,258,3.4,834,30,48.0
+FTI College,Gurgaon,Continental,162,246,2.0,553,83,45.0
+Sector 62,Gurgaon,Italian,451,144,2.6,373,151,37.0
+FTI College,"Indiranagar, Bangalore",Continental,330,182,2.2,636,35,51.0
+Sector 3,Gurgaon,Continental,340,151,2.4,166,212,
+Marathalli,"Indiranagar, Bangalore",Mexican,151,52,3.9,936,105,57.0
+Sector 62,"Law College Road, Pune",Chinese,195,230,2.2,752,219,36.0
+Marathalli,"Marathalli, Bangalore",Continental,487,72,3.3,458,162,42.0
+Sector 3,"Marathalli, Bangalore",Mexican,321,278,2.9,998,219,43.0
+FTI College,"Marathalli, Bangalore",Chinese,330,102,3.7,279,269,27.0
+Sector 62,"Marathalli, Bangalore",Italian,336,214,4.7,699,119,25.0
+Sector 3,"Indiranagar, Bangalore",Italian,242,251,3.9,301,181,24.0
+Sector 62,"Indiranagar, Bangalore",Indian,270,251,1.9,530,105,48.0
+Sector 62,Gurgaon,Mexican,128,132,1.1,579,216,47.0
+FTI College,"Indiranagar, Bangalore",Chinese,135,194,2.0,217,204,30.0
+Sector 3,Gurgaon,Continental,112,134,3.4,101,69,20.0
+Marathalli,Gurgaon,Italian,259,127,1.2,553,43,38.0
+Sector 62,"Marathalli, Bangalore",Chinese,426,250,3.0,287,227,28.0
+Sector 62,"Indiranagar, Bangalore",Mexican,286,159,3.4,166,183,46.0
+Marathalli,"Indiranagar, Bangalore",Indian,342,50,2.3,620,106,53.0
+Sector 3,Gurgaon,Italian,185,100,4.1,35,83,23.0
+Sector 62,Gurgaon,Chinese,383,222,1.4,743,249,55.0
+Sector 62,"Law College Road, Pune",Chinese,165,254,1.3,740,20,37.0
+Sector 62,"Law College Road, Pune",Chinese,269,53,3.9,352,195,34.0
+Sector 3,Gurgaon,Mexican,144,239,3.0,675,177,32.0
+Sector 3,"Law College Road, Pune",Mexican,161,242,3.8,898,6,38.0
+Marathalli,"Law College Road, Pune",Mexican,233,162,2.7,72,69,25.0
+Sector 3,Gurgaon,Continental,383,281,2.0,647,126,31.0
+Sector 3,Gurgaon,Chinese,127,81,4.3,352,159,56.0
+FTI College,"Indiranagar, Bangalore",Italian,207,83,4.2,890,247,36.0
+Marathalli,Gurgaon,Mexican,143,141,3.8,69,202,42.0
+Sector 62,Gurgaon,Mexican,439,144,2.1,424,147,45.0
+Sector 3,"Marathalli, Bangalore",Chinese,385,121,3.4,998,142,48.0
+Sector 62,"Indiranagar, Bangalore",Mexican,430,88,2.4,707,198,52.0
+Sector 62,"Indiranagar, Bangalore",Continental,227,203,1.4,780,153,46.0
+FTI College,"Indiranagar, Bangalore",Continental,447,299,4.7,560,141,44.0
+Sector 3,"Marathalli, Bangalore",Mexican,330,211,1.5,827,164,
+Marathalli,Gurgaon,Chinese,289,231,4.8,641,20,42.0
+Sector 3,"Indiranagar, Bangalore",Chinese,324,167,2.8,955,81,40.0
+Sector 62,"Indiranagar, Bangalore",Chinese,484,52,1.7,516,68,40.0
+Marathalli,"Law College Road, Pune",Indian,476,172,3.2,427,130,32.0
+Sector 3,"Indiranagar, Bangalore",Mexican,382,99,4.5,538,86,56.0
+Sector 62,Gurgaon,Chinese,220,61,3.9,159,217,
+Sector 62,Gurgaon,Continental,215,242,4.2,148,160,43.0
+FTI College,"Law College Road, Pune",Italian,332,103,3.6,775,177,30.0
+FTI College,"Indiranagar, Bangalore",Italian,358,285,3.8,229,116,36.0
+FTI College,"Indiranagar, Bangalore",Chinese,458,182,4.4,711,195,
+Sector 62,"Indiranagar, Bangalore",Italian,297,271,2.0,561,85,44.0
+Sector 3,"Marathalli, Bangalore",Italian,236,271,3.0,66,288,49.0
+FTI College,"Indiranagar, Bangalore",Indian,417,106,1.9,811,80,28.0
+Sector 3,Gurgaon,Continental,264,194,5.0,380,151,
+FTI College,Gurgaon,Continental,324,161,4.8,57,60,
+Marathalli,"Marathalli, Bangalore",Indian,406,96,1.2,258,60,38.0
+Marathalli,"Marathalli, Bangalore",Indian,333,200,3.8,341,27,
+FTI College,"Indiranagar, Bangalore",Italian,271,256,4.7,837,42,31.0
+Sector 62,"Law College Road, Pune",Mexican,251,278,1.7,129,168,56.0
+FTI College,"Marathalli, Bangalore",Italian,414,134,3.3,726,85,36.0
+FTI College,"Marathalli, Bangalore",Indian,473,191,4.7,171,176,56.0
+Sector 62,"Indiranagar, Bangalore",Continental,259,115,1.1,769,16,58.0
+Marathalli,"Indiranagar, Bangalore",Italian,195,124,3.8,613,97,47.0
+Sector 3,"Marathalli, Bangalore",Mexican,332,228,2.2,208,197,
+FTI College,"Law College Road, Pune",Italian,279,152,4.7,802,97,37.0
+Sector 62,"Marathalli, Bangalore",Chinese,212,215,4.9,353,64,33.0
+FTI College,"Indiranagar, Bangalore",Italian,417,241,4.8,470,4,54.0
+Sector 62,"Indiranagar, Bangalore",Indian,151,275,2.9,797,1,26.0
+Sector 3,"Marathalli, Bangalore",Continental,367,87,4.4,115,21,32.0
+Sector 3,"Law College Road, Pune",Continental,394,99,4.4,263,111,37.0
+Marathalli,"Marathalli, Bangalore",Indian,485,147,2.3,661,56,56.0
+Sector 62,"Marathalli, Bangalore",Chinese,486,131,4.3,811,65,32.0
+Sector 62,"Indiranagar, Bangalore",Indian,212,79,1.1,441,97,55.0
+Marathalli,"Law College Road, Pune",Italian,200,128,3.4,547,143,50.0
+Marathalli,Gurgaon,Indian,212,140,1.9,452,124,21.0
+Sector 62,"Law College Road, Pune",Indian,180,228,1.5,844,166,35.0
+Marathalli,"Marathalli, Bangalore",Chinese,286,240,1.3,476,85,28.0
+Sector 3,"Marathalli, Bangalore",Italian,212,275,3.8,286,75,28.0
+FTI College,"Marathalli, Bangalore",Mexican,101,101,2.4,302,293,57.0
+Sector 3,"Law College Road, Pune",Mexican,229,298,3.9,310,58,30.0
+Marathalli,"Indiranagar, Bangalore",Continental,319,215,1.3,207,137,41.0
+Sector 62,"Marathalli, Bangalore",Indian,153,274,2.3,617,98,52.0
+Sector 62,"Marathalli, Bangalore",Continental,442,265,3.2,445,191,55.0
+Sector 3,"Law College Road, Pune",Chinese,323,128,4.2,669,242,42.0
+Sector 62,Gurgaon,Mexican,324,79,2.3,632,48,53.0
+Marathalli,Gurgaon,Indian,484,296,3.5,54,31,28.0
+Sector 3,"Indiranagar, Bangalore",Chinese,225,155,4.5,911,276,43.0
+Sector 62,"Indiranagar, Bangalore",Chinese,229,100,3.5,11,19,27.0
+FTI College,"Marathalli, Bangalore",Indian,152,130,1.9,656,153,26.0
+FTI College,"Law College Road, Pune",Chinese,271,182,1.1,399,67,55.0
+Marathalli,"Marathalli, Bangalore",Indian,317,78,4.5,907,213,
+Sector 62,"Indiranagar, Bangalore",Indian,259,181,1.1,647,142,22.0
+Marathalli,"Law College Road, Pune",Italian,297,187,4.5,979,231,47.0
+Sector 3,"Law College Road, Pune",Continental,346,233,3.1,514,212,25.0
+FTI College,"Indiranagar, Bangalore",Chinese,423,194,4.8,655,78,
+Sector 3,Gurgaon,Chinese,302,123,4.2,541,213,47.0
+Sector 62,Gurgaon,Italian,283,66,5.0,236,115,59.0
+Marathalli,"Law College Road, Pune",Italian,222,133,2.4,278,91,20.0
+Marathalli,"Marathalli, Bangalore",Italian,354,265,4.1,347,269,55.0
+Marathalli,Gurgaon,Mexican,393,118,2.6,626,167,40.0
+Sector 3,"Marathalli, Bangalore",Mexican,379,83,2.9,103,57,54.0
+FTI College,Gurgaon,Mexican,424,55,3.5,629,283,32.0
+Sector 3,Gurgaon,Indian,471,102,4.5,516,25,29.0
+Sector 3,"Marathalli, Bangalore",Chinese,197,243,4.9,979,65,
+Sector 62,"Indiranagar, Bangalore",Continental,297,254,4.1,871,247,32.0
+Sector 62,Gurgaon,Indian,494,175,2.7,247,253,56.0
+Sector 62,Gurgaon,Chinese,339,284,2.7,363,43,57.0
+FTI College,"Marathalli, Bangalore",Chinese,243,92,4.0,320,96,43.0
+FTI College,"Indiranagar, Bangalore",Italian,196,289,2.0,632,41,21.0
+Sector 62,Gurgaon,Italian,300,252,1.4,285,226,41.0
+Sector 62,Gurgaon,Indian,223,164,2.4,148,261,36.0
+FTI College,"Indiranagar, Bangalore",Italian,286,160,2.1,83,166,55.0
+Marathalli,Gurgaon,Chinese,425,298,2.2,965,278,33.0
+FTI College,"Indiranagar, Bangalore",Italian,448,200,1.9,405,88,
+FTI College,"Indiranagar, Bangalore",Mexican,358,232,1.2,977,177,54.0
+FTI College,"Marathalli, Bangalore",Italian,247,129,1.1,455,196,
+Sector 62,"Law College Road, Pune",Chinese,351,144,5.0,742,266,22.0
+Marathalli,"Indiranagar, Bangalore",Indian,445,252,2.7,799,267,57.0
+FTI College,"Marathalli, Bangalore",Continental,246,167,2.5,160,73,36.0
+Sector 62,"Law College Road, Pune",Italian,247,193,3.7,783,7,31.0
+Sector 3,Gurgaon,Chinese,451,57,1.9,459,296,43.0
+Sector 3,"Law College Road, Pune",Continental,298,181,4.8,549,163,48.0
+FTI College,"Indiranagar, Bangalore",Continental,407,153,4.1,499,84,44.0
+Sector 3,"Indiranagar, Bangalore",Mexican,227,181,1.4,737,71,55.0
+Marathalli,"Indiranagar, Bangalore",Continental,138,233,2.7,508,54,45.0
+Sector 3,"Indiranagar, Bangalore",Chinese,437,74,4.5,653,46,57.0
+Sector 3,"Indiranagar, Bangalore",Chinese,459,244,4.8,803,237,20.0
+Marathalli,"Marathalli, Bangalore",Italian,228,145,2.9,480,103,39.0
+FTI College,"Indiranagar, Bangalore",Italian,366,244,3.5,662,209,47.0
+FTI College,"Marathalli, Bangalore",Italian,250,204,1.7,113,41,35.0
+Marathalli,Gurgaon,Continental,397,142,5.0,748,267,36.0
+Marathalli,"Indiranagar, Bangalore",Continental,198,209,1.9,577,262,59.0
+Marathalli,"Indiranagar, Bangalore",Mexican,362,227,4.8,360,258,
+Sector 3,"Law College Road, Pune",Italian,351,110,3.6,340,282,31.0
+Marathalli,Gurgaon,Indian,243,171,3.4,769,113,46.0
+Sector 62,"Indiranagar, Bangalore",Mexican,445,100,3.1,986,39,49.0
+Sector 3,"Indiranagar, Bangalore",Indian,211,196,1.9,760,219,53.0
+FTI College,Gurgaon,Continental,159,70,1.7,968,128,56.0
+FTI College,"Marathalli, Bangalore",Mexican,468,54,1.9,448,7,25.0
+FTI College,"Indiranagar, Bangalore",Mexican,101,259,1.7,842,100,26.0
+Sector 3,"Law College Road, Pune",Chinese,484,141,4.1,834,175,51.0
+Sector 62,"Indiranagar, Bangalore",Continental,403,219,2.4,179,106,51.0
+Marathalli,"Law College Road, Pune",Continental,353,110,1.2,701,100,
+Marathalli,"Law College Road, Pune",Mexican,239,71,4.9,406,259,52.0
+FTI College,"Indiranagar, Bangalore",Continental,136,198,4.5,665,245,26.0
+FTI College,"Indiranagar, Bangalore",Mexican,259,119,4.7,195,274,31.0
+Sector 3,"Law College Road, Pune",Chinese,108,50,5.0,465,31,35.0
+Sector 62,Gurgaon,Mexican,332,182,1.7,310,136,35.0
+Marathalli,Gurgaon,Continental,198,282,2.6,261,11,55.0
+Sector 3,"Indiranagar, Bangalore",Continental,246,61,4.0,418,15,32.0
+Marathalli,"Marathalli, Bangalore",Mexican,403,139,3.8,405,128,
+FTI College,Gurgaon,Mexican,307,95,1.6,938,62,55.0
+Marathalli,"Indiranagar, Bangalore",Mexican,230,83,4.3,142,108,28.0
+Sector 62,Gurgaon,Italian,251,226,1.9,341,20,51.0
+Sector 62,"Marathalli, Bangalore",Continental,153,127,1.9,315,157,30.0
+FTI College,"Indiranagar, Bangalore",Continental,219,267,3.1,100,268,27.0
+Sector 62,"Marathalli, Bangalore",Italian,260,94,3.4,243,161,52.0
+Sector 62,"Indiranagar, Bangalore",Mexican,215,204,3.3,489,259,42.0
+Sector 3,"Marathalli, Bangalore",Chinese,174,122,1.4,11,101,
+Marathalli,Gurgaon,Mexican,212,75,4.5,238,222,27.0
+FTI College,Gurgaon,Mexican,203,298,2.1,560,58,41.0
+FTI College,"Marathalli, Bangalore",Italian,439,96,1.5,41,246,23.0
+FTI College,"Marathalli, Bangalore",Continental,353,170,4.6,677,127,59.0
+FTI College,"Marathalli, Bangalore",Mexican,326,263,4.8,593,282,22.0
+FTI College,"Indiranagar, Bangalore",Continental,211,288,4.4,428,24,48.0
+Sector 62,Gurgaon,Indian,198,105,4.2,802,130,48.0
+Sector 3,"Indiranagar, Bangalore",Continental,252,143,3.6,157,195,53.0
+FTI College,Gurgaon,Chinese,448,156,3.2,215,280,53.0
+Sector 3,"Law College Road, Pune",Chinese,483,112,1.3,669,153,47.0
+Sector 3,"Indiranagar, Bangalore",Mexican,465,97,2.6,461,132,32.0
+Sector 62,Gurgaon,Continental,437,110,2.5,133,226,34.0
+FTI College,Gurgaon,Mexican,293,130,2.0,66,188,42.0
+Sector 62,"Indiranagar, Bangalore",Italian,409,75,3.9,847,264,45.0
+FTI College,"Indiranagar, Bangalore",Chinese,262,85,3.0,6,133,23.0
+Sector 62,Gurgaon,Mexican,307,50,1.3,947,210,45.0
+Sector 3,"Indiranagar, Bangalore",Italian,268,57,1.9,525,59,59.0
+FTI College,"Marathalli, Bangalore",Mexican,260,162,3.7,72,212,28.0
+Marathalli,"Indiranagar, Bangalore",Continental,167,148,1.3,398,215,24.0
+Sector 3,"Indiranagar, Bangalore",Continental,388,229,4.4,404,225,51.0
+Marathalli,"Indiranagar, Bangalore",Continental,497,256,3.0,674,130,39.0
+Sector 3,Gurgaon,Continental,376,96,2.9,577,75,30.0
+Sector 62,"Marathalli, Bangalore",Indian,403,176,3.4,858,285,34.0
+FTI College,"Law College Road, Pune",Italian,483,105,4.3,129,276,51.0
+Sector 3,"Law College Road, Pune",Italian,491,263,2.4,930,155,47.0
+Sector 62,"Marathalli, Bangalore",Continental,234,63,3.7,465,247,41.0
+FTI College,"Marathalli, Bangalore",Indian,294,267,3.3,205,217,36.0
+FTI College,"Marathalli, Bangalore",Continental,227,77,2.1,787,189,45.0
+Sector 3,Gurgaon,Indian,132,264,4.5,977,162,26.0
+FTI College,"Law College Road, Pune",Continental,275,127,4.2,767,179,45.0
+Sector 3,"Marathalli, Bangalore",Chinese,470,265,3.6,265,33,44.0
+FTI College,Gurgaon,Chinese,474,179,4.4,536,40,29.0
+Marathalli,"Law College Road, Pune",Mexican,121,158,4.5,961,74,38.0
+Sector 62,"Indiranagar, Bangalore",Continental,337,203,3.8,792,278,30.0
+Marathalli,Gurgaon,Italian,257,63,4.3,252,175,32.0
+Sector 3,"Law College Road, Pune",Mexican,137,236,3.8,821,149,27.0
+Marathalli,Gurgaon,Chinese,329,105,3.7,288,272,59.0
+Sector 3,"Law College Road, Pune",Continental,464,164,3.5,163,107,23.0
+FTI College,"Law College Road, Pune",Mexican,150,56,4.0,94,138,50.0
+FTI College,"Indiranagar, Bangalore",Continental,363,52,1.6,781,270,47.0
+Sector 3,Gurgaon,Chinese,382,160,4.5,832,288,30.0
+Marathalli,"Marathalli, Bangalore",Mexican,126,200,4.5,109,211,20.0
+FTI College,"Indiranagar, Bangalore",Chinese,325,287,1.1,335,271,57.0
+Sector 62,"Indiranagar, Bangalore",Indian,376,156,4.3,821,65,43.0
+FTI College,"Law College Road, Pune",Chinese,385,288,1.5,237,247,50.0
+Sector 62,"Marathalli, Bangalore",Continental,196,286,2.3,380,155,
+Marathalli,Gurgaon,Italian,383,67,4.0,435,46,24.0
+Sector 62,"Marathalli, Bangalore",Chinese,466,299,1.6,898,200,39.0
+Sector 62,"Marathalli, Bangalore",Italian,416,87,4.3,482,147,
+Sector 62,"Marathalli, Bangalore",Indian,403,276,4.3,936,123,52.0
+Sector 62,"Marathalli, Bangalore",Mexican,246,164,3.0,901,0,57.0
+FTI College,"Marathalli, Bangalore",Mexican,103,64,1.0,24,246,46.0
+Sector 62,"Law College Road, Pune",Italian,134,241,2.1,652,127,53.0
+FTI College,"Law College Road, Pune",Mexican,291,266,3.5,116,190,34.0
+Sector 62,"Indiranagar, Bangalore",Chinese,148,168,4.9,481,66,51.0
+Sector 3,"Law College Road, Pune",Italian,116,278,3.5,391,3,40.0
+Marathalli,"Indiranagar, Bangalore",Continental,271,77,2.0,916,293,24.0
+Sector 62,"Indiranagar, Bangalore",Chinese,319,251,3.5,993,142,25.0
+Sector 3,Gurgaon,Chinese,257,88,3.2,963,190,57.0
+Sector 62,"Marathalli, Bangalore",Chinese,145,234,4.1,536,20,41.0
+Sector 62,"Law College Road, Pune",Continental,472,66,1.4,78,226,37.0
+Sector 62,Gurgaon,Indian,105,280,4.0,579,116,33.0
+Sector 3,"Law College Road, Pune",Mexican,198,135,3.2,172,141,29.0
+Marathalli,"Indiranagar, Bangalore",Italian,479,267,4.9,955,38,32.0
+Sector 3,"Law College Road, Pune",Indian,332,175,2.4,11,251,50.0
+Marathalli,"Marathalli, Bangalore",Italian,136,93,3.5,799,206,49.0
+Sector 62,"Indiranagar, Bangalore",Mexican,379,74,4.7,127,209,22.0
+FTI College,"Indiranagar, Bangalore",Continental,448,194,1.4,607,114,49.0
+Sector 62,Gurgaon,Chinese,401,62,4.7,91,224,25.0
+Marathalli,"Marathalli, Bangalore",Chinese,280,261,3.8,652,133,48.0
+Sector 3,"Indiranagar, Bangalore",Continental,194,74,1.3,542,250,27.0
+Sector 62,"Marathalli, Bangalore",Indian,198,117,2.2,845,218,52.0
+Sector 3,"Law College Road, Pune",Indian,287,187,3.8,531,90,36.0
+Sector 3,"Marathalli, Bangalore",Italian,215,116,1.3,657,45,30.0
+Sector 3,"Indiranagar, Bangalore",Continental,290,282,3.3,988,37,
+Sector 62,Gurgaon,Indian,352,158,2.4,827,141,30.0
+Sector 3,"Indiranagar, Bangalore",Continental,260,195,3.5,446,99,50.0
+Sector 3,"Marathalli, Bangalore",Mexican,355,160,1.2,389,189,47.0
+Sector 62,"Marathalli, Bangalore",Chinese,422,277,4.5,671,34,25.0
+Sector 3,"Indiranagar, Bangalore",Chinese,227,160,4.9,860,146,35.0
+Sector 62,"Marathalli, Bangalore",Chinese,117,263,4.9,42,29,
+Marathalli,"Law College Road, Pune",Continental,380,83,4.0,253,83,54.0
+Marathalli,"Indiranagar, Bangalore",Continental,322,160,1.5,129,280,45.0
+Marathalli,Gurgaon,Italian,153,57,4.0,59,269,31.0
+Sector 3,"Indiranagar, Bangalore",Chinese,157,217,1.1,662,153,30.0
+FTI College,"Law College Road, Pune",Italian,422,162,1.1,466,101,56.0
+FTI College,"Law College Road, Pune",Chinese,459,285,2.3,286,214,44.0
+Sector 3,"Law College Road, Pune",Italian,273,132,3.0,516,149,37.0
+FTI College,"Law College Road, Pune",Italian,379,91,4.1,466,82,38.0
+Sector 62,"Law College Road, Pune",Mexican,213,218,3.7,929,109,42.0
+FTI College,Gurgaon,Italian,387,150,2.8,777,274,57.0
+Sector 3,"Marathalli, Bangalore",Continental,441,55,2.1,344,200,37.0
+Sector 3,"Law College Road, Pune",Italian,250,229,5.0,641,283,45.0
+Sector 62,"Law College Road, Pune",Chinese,226,75,2.7,381,172,25.0
+Marathalli,"Indiranagar, Bangalore",Italian,254,113,2.8,778,205,23.0
+Sector 3,Gurgaon,Indian,485,275,1.7,689,62,48.0
+Sector 62,Gurgaon,Chinese,372,236,4.2,252,72,
+FTI College,"Marathalli, Bangalore",Indian,203,233,3.8,926,250,36.0
+FTI College,Gurgaon,Chinese,492,108,1.9,55,123,35.0
+Sector 62,"Indiranagar, Bangalore",Continental,398,158,1.3,462,120,21.0
+Sector 62,"Indiranagar, Bangalore",Continental,345,247,3.7,456,274,53.0
+Sector 3,"Marathalli, Bangalore",Continental,275,278,3.6,982,119,27.0
+FTI College,"Indiranagar, Bangalore",Indian,138,170,2.1,82,163,32.0
+Sector 62,"Law College Road, Pune",Mexican,269,82,4.8,904,285,27.0
+FTI College,"Law College Road, Pune",Chinese,346,230,1.6,98,264,49.0
+Sector 62,"Indiranagar, Bangalore",Continental,125,199,2.7,148,160,51.0
+FTI College,"Marathalli, Bangalore",Chinese,454,70,4.8,328,88,
+Marathalli,Gurgaon,Indian,405,247,2.7,155,141,49.0
+Sector 3,"Marathalli, Bangalore",Mexican,112,119,3.6,189,202,20.0
+FTI College,Gurgaon,Indian,415,296,2.6,493,226,
+Marathalli,"Indiranagar, Bangalore",Chinese,490,161,2.1,882,221,36.0
+FTI College,"Indiranagar, Bangalore",Mexican,412,53,4.9,262,40,39.0
+FTI College,"Law College Road, Pune",Mexican,135,143,2.6,79,195,43.0
+Marathalli,Gurgaon,Indian,272,124,4.6,399,67,41.0
+FTI College,"Marathalli, Bangalore",Continental,119,239,1.9,763,263,48.0
+FTI College,"Indiranagar, Bangalore",Chinese,420,111,1.9,608,1,41.0
+Sector 3,"Marathalli, Bangalore",Italian,363,143,1.1,259,124,28.0
+Marathalli,"Law College Road, Pune",Italian,499,144,3.6,771,109,56.0
+Marathalli,Gurgaon,Indian,241,201,2.5,614,85,29.0
+Sector 62,Gurgaon,Chinese,470,104,4.5,551,119,55.0
+FTI College,"Indiranagar, Bangalore",Chinese,242,186,2.9,784,126,56.0
+Sector 3,Gurgaon,Indian,191,296,4.9,100,254,47.0
+FTI College,"Indiranagar, Bangalore",Chinese,453,180,1.7,358,182,
+FTI College,"Law College Road, Pune",Continental,421,292,4.5,379,15,40.0
+Sector 62,Gurgaon,Indian,387,80,4.1,819,61,43.0
+FTI College,"Indiranagar, Bangalore",Continental,314,89,4.1,220,157,59.0
+Sector 3,"Marathalli, Bangalore",Chinese,441,278,4.4,819,267,21.0
+Sector 3,"Indiranagar, Bangalore",Indian,150,85,4.0,419,34,27.0
+Sector 62,Gurgaon,Chinese,252,201,3.5,123,266,46.0
+FTI College,"Law College Road, Pune",Indian,285,272,1.5,421,63,41.0
+Sector 3,Gurgaon,Chinese,162,55,1.1,230,49,
+FTI College,Gurgaon,Continental,289,115,4.7,689,254,46.0
+FTI College,"Indiranagar, Bangalore",Continental,224,261,3.5,62,148,48.0
+FTI College,"Marathalli, Bangalore",Chinese,249,269,4.2,484,275,22.0
+Sector 62,Gurgaon,Indian,413,124,2.9,627,171,32.0
+FTI College,"Marathalli, Bangalore",Italian,157,53,1.5,702,200,29.0
+Sector 3,"Indiranagar, Bangalore",Continental,441,128,1.5,573,34,55.0
+FTI College,"Marathalli, Bangalore",Continental,404,183,3.7,767,215,28.0
+Sector 3,"Indiranagar, Bangalore",Italian,279,167,2.7,482,64,
+FTI College,"Law College Road, Pune",Chinese,269,162,1.8,518,7,53.0
+Sector 3,"Marathalli, Bangalore",Indian,425,143,3.0,154,75,20.0
+Sector 3,"Marathalli, Bangalore",Chinese,370,297,1.3,91,173,51.0
+FTI College,"Law College Road, Pune",Mexican,153,279,3.3,981,46,44.0
+FTI College,"Marathalli, Bangalore",Continental,200,228,2.1,525,14,48.0
+Sector 3,"Law College Road, Pune",Mexican,363,111,4.2,454,146,26.0
+Marathalli,Gurgaon,Continental,152,234,2.2,740,25,22.0
+Sector 62,"Indiranagar, Bangalore",Continental,159,243,2.8,597,92,39.0
+Marathalli,"Law College Road, Pune",Mexican,207,128,1.0,644,231,39.0
+Marathalli,"Marathalli, Bangalore",Mexican,104,252,1.3,509,20,49.0
+FTI College,"Law College Road, Pune",Chinese,202,185,2.6,182,37,54.0
+Sector 62,"Marathalli, Bangalore",Mexican,295,75,2.9,385,275,54.0
+Marathalli,Gurgaon,Chinese,361,228,3.4,573,156,58.0
+FTI College,"Law College Road, Pune",Chinese,464,222,2.2,730,178,46.0
+Marathalli,Gurgaon,Chinese,471,93,3.8,404,131,45.0
+Marathalli,"Indiranagar, Bangalore",Continental,449,182,4.4,245,27,33.0
+FTI College,"Marathalli, Bangalore",Continental,146,119,4.1,741,259,36.0
+FTI College,"Marathalli, Bangalore",Mexican,454,203,1.2,590,75,37.0
+FTI College,Gurgaon,Continental,410,167,2.9,660,66,48.0
+Sector 62,"Indiranagar, Bangalore",Mexican,407,117,1.4,649,193,39.0
+Marathalli,"Law College Road, Pune",Continental,243,68,2.0,470,161,46.0
+FTI College,"Law College Road, Pune",Indian,368,261,4.9,825,256,37.0
+Sector 3,"Marathalli, Bangalore",Indian,469,274,1.6,887,71,23.0
+Marathalli,Gurgaon,Mexican,223,69,3.0,422,86,20.0
+Sector 3,Gurgaon,Continental,205,162,3.5,900,261,20.0
+Sector 62,"Law College Road, Pune",Continental,257,189,3.8,64,213,45.0
+FTI College,"Indiranagar, Bangalore",Chinese,246,96,3.2,12,152,39.0
+Sector 3,"Indiranagar, Bangalore",Italian,244,50,1.0,212,209,42.0
+Sector 62,"Law College Road, Pune",Mexican,219,139,2.3,985,60,29.0
+FTI College,"Law College Road, Pune",Italian,418,191,3.1,241,267,30.0
+Sector 3,Gurgaon,Italian,374,113,1.4,492,261,24.0
+Sector 3,"Indiranagar, Bangalore",Mexican,191,87,2.4,212,217,
+Sector 62,"Law College Road, Pune",Continental,157,86,1.1,692,282,36.0
+FTI College,"Law College Road, Pune",Mexican,445,175,1.3,337,135,41.0
+FTI College,"Marathalli, Bangalore",Italian,328,188,2.6,996,92,53.0
+Sector 3,"Law College Road, Pune",Continental,216,149,1.5,172,108,48.0
+Sector 3,"Law College Road, Pune",Indian,417,126,3.3,671,240,23.0
+Sector 3,"Indiranagar, Bangalore",Mexican,378,284,3.8,163,141,24.0
+FTI College,Gurgaon,Mexican,226,52,4.2,464,290,30.0
+Sector 62,"Indiranagar, Bangalore",Continental,492,210,1.8,994,236,40.0
+Sector 62,Gurgaon,Indian,495,183,1.7,496,176,54.0
+FTI College,"Marathalli, Bangalore",Indian,228,227,1.4,699,140,31.0
+Marathalli,"Law College Road, Pune",Continental,157,297,3.5,394,188,45.0
+Sector 62,"Marathalli, Bangalore",Chinese,221,59,3.8,702,48,38.0
+Sector 3,Gurgaon,Mexican,100,54,1.1,916,189,26.0
+Marathalli,"Indiranagar, Bangalore",Mexican,338,200,4.7,307,135,26.0
+Marathalli,"Indiranagar, Bangalore",Italian,389,187,1.2,767,42,45.0
+Sector 62,"Marathalli, Bangalore",Continental,195,221,3.2,182,89,59.0
+Marathalli,Gurgaon,Italian,225,179,3.8,628,294,24.0
+Marathalli,"Marathalli, Bangalore",Italian,217,62,4.5,793,244,40.0
+Sector 62,"Marathalli, Bangalore",Indian,147,217,3.9,509,191,33.0
+Sector 62,"Law College Road, Pune",Mexican,188,179,4.2,707,105,23.0
+Marathalli,"Marathalli, Bangalore",Italian,336,133,2.4,545,232,42.0
+Sector 3,"Law College Road, Pune",Indian,472,114,4.3,563,264,39.0
+FTI College,"Law College Road, Pune",Continental,484,112,1.3,623,36,34.0
+Marathalli,"Indiranagar, Bangalore",Italian,371,150,4.6,763,40,48.0
+Marathalli,"Law College Road, Pune",Mexican,288,122,3.2,593,16,27.0
+Sector 3,"Law College Road, Pune",Italian,291,66,4.3,743,276,38.0
+Marathalli,"Indiranagar, Bangalore",Continental,168,58,2.8,226,58,
+Marathalli,"Marathalli, Bangalore",Italian,377,252,3.6,744,182,47.0
+FTI College,Gurgaon,Mexican,448,192,3.1,732,40,46.0
+FTI College,Gurgaon,Indian,346,201,3.9,435,38,23.0
+FTI College,Gurgaon,Mexican,175,87,1.3,924,191,34.0
+Sector 62,"Marathalli, Bangalore",Indian,253,296,1.2,421,266,
+Sector 62,"Law College Road, Pune",Chinese,243,212,2.0,553,146,56.0
+FTI College,Gurgaon,Mexican,185,143,1.6,20,126,20.0
+FTI College,"Marathalli, Bangalore",Mexican,284,144,4.5,553,45,22.0
+Sector 62,"Law College Road, Pune",Continental,384,98,1.9,396,44,43.0
+Sector 3,"Indiranagar, Bangalore",Italian,319,118,4.9,624,0,46.0
+Marathalli,Gurgaon,Indian,168,111,2.3,104,167,59.0
+Marathalli,"Law College Road, Pune",Indian,146,237,1.7,191,107,55.0
+FTI College,Gurgaon,Continental,193,285,4.2,16,18,53.0
+Sector 3,Gurgaon,Continental,337,227,3.6,119,71,48.0
+Sector 62,Gurgaon,Italian,303,127,3.0,392,108,43.0
+FTI College,"Law College Road, Pune",Italian,499,166,3.2,424,267,43.0
+Sector 3,"Marathalli, Bangalore",Mexican,317,169,3.9,128,239,23.0
+Sector 3,"Law College Road, Pune",Chinese,440,252,1.9,129,89,22.0
+Sector 3,Gurgaon,Italian,138,186,5.0,571,102,53.0
+Sector 62,"Law College Road, Pune",Continental,199,211,4.9,559,249,
+Sector 62,"Indiranagar, Bangalore",Italian,388,125,3.6,28,7,42.0
+Marathalli,"Marathalli, Bangalore",Indian,353,276,1.8,96,152,24.0
+Marathalli,"Law College Road, Pune",Chinese,321,84,3.7,9,173,50.0
+Sector 3,"Indiranagar, Bangalore",Mexican,456,50,1.3,241,157,25.0
+Sector 3,"Marathalli, Bangalore",Indian,122,89,1.1,825,214,56.0
+Sector 62,"Indiranagar, Bangalore",Indian,349,113,2.0,955,176,29.0
+Marathalli,"Marathalli, Bangalore",Chinese,109,199,2.9,231,174,59.0
+Sector 3,"Law College Road, Pune",Mexican,345,109,4.5,788,145,
+Marathalli,"Indiranagar, Bangalore",Continental,424,113,3.9,283,160,58.0
+Marathalli,Gurgaon,Mexican,199,142,4.0,714,126,
+Sector 3,"Indiranagar, Bangalore",Italian,389,121,2.7,758,81,40.0
+Sector 62,"Marathalli, Bangalore",Indian,279,60,2.4,801,146,39.0
+Sector 3,"Law College Road, Pune",Italian,322,154,2.5,775,238,22.0
+Sector 3,"Marathalli, Bangalore",Continental,493,278,5.0,954,83,41.0
+Marathalli,"Indiranagar, Bangalore",Italian,349,63,1.2,725,112,23.0
+Sector 3,"Indiranagar, Bangalore",Mexican,246,109,4.5,199,224,47.0
+Sector 62,Gurgaon,Italian,195,79,3.3,944,242,31.0
+Sector 3,"Law College Road, Pune",Continental,356,84,2.8,78,142,57.0
+Sector 62,"Law College Road, Pune",Continental,424,262,3.9,912,40,
+Sector 62,"Indiranagar, Bangalore",Continental,103,214,2.9,955,257,24.0
+Marathalli,"Law College Road, Pune",Mexican,115,54,4.5,854,284,32.0
+FTI College,Gurgaon,Continental,379,132,4.6,855,104,42.0
+FTI College,"Marathalli, Bangalore",Indian,435,172,2.7,172,201,49.0
+Marathalli,"Law College Road, Pune",Continental,346,127,2.1,466,265,56.0
+Sector 3,"Indiranagar, Bangalore",Italian,357,203,3.4,580,209,44.0
+Marathalli,"Marathalli, Bangalore",Italian,483,111,4.6,415,50,46.0
+Sector 62,"Marathalli, Bangalore",Italian,259,181,1.8,939,117,33.0
+FTI College,Gurgaon,Mexican,439,138,3.5,448,200,55.0
+Marathalli,"Indiranagar, Bangalore",Italian,251,286,3.5,86,38,58.0
+Sector 3,"Law College Road, Pune",Mexican,495,91,3.9,100,27,35.0
+Marathalli,"Indiranagar, Bangalore",Mexican,277,138,1.5,7,258,41.0
+FTI College,"Marathalli, Bangalore",Continental,262,195,3.9,844,83,40.0
+Marathalli,"Indiranagar, Bangalore",Indian,479,89,4.6,199,154,40.0
+Marathalli,"Law College Road, Pune",Continental,132,121,1.7,504,116,27.0
+FTI College,"Law College Road, Pune",Continental,278,88,2.0,86,1,35.0
+Sector 62,Gurgaon,Mexican,200,153,4.9,42,92,50.0
+Sector 62,"Law College Road, Pune",Mexican,367,63,1.7,384,165,29.0
+FTI College,"Law College Road, Pune",Italian,422,81,4.4,620,295,51.0
+Marathalli,"Indiranagar, Bangalore",Italian,164,228,3.0,434,257,53.0
+FTI College,"Indiranagar, Bangalore",Continental,267,174,2.0,407,80,28.0
+Sector 62,"Marathalli, Bangalore",Chinese,429,215,4.5,482,267,36.0
+Sector 3,Gurgaon,Chinese,142,146,2.8,663,234,30.0
+Marathalli,"Indiranagar, Bangalore",Italian,143,72,3.1,16,212,51.0
+Sector 62,"Law College Road, Pune",Chinese,384,112,2.4,644,61,29.0
+Marathalli,"Marathalli, Bangalore",Italian,496,192,3.4,147,48,41.0
+FTI College,"Indiranagar, Bangalore",Mexican,111,274,1.7,276,126,36.0
+Sector 3,Gurgaon,Continental,194,202,2.6,231,222,23.0
+FTI College,Gurgaon,Indian,401,194,4.9,825,278,44.0
+Sector 3,"Marathalli, Bangalore",Continental,485,274,2.0,926,293,40.0
+Marathalli,"Marathalli, Bangalore",Italian,352,288,3.6,365,283,56.0
+Marathalli,"Marathalli, Bangalore",Italian,341,296,2.3,227,276,57.0
+FTI College,"Marathalli, Bangalore",Continental,134,243,4.1,650,106,
+Sector 3,"Marathalli, Bangalore",Italian,314,255,1.5,435,145,44.0
+Sector 3,"Law College Road, Pune",Chinese,436,102,4.9,398,98,55.0
+Marathalli,"Law College Road, Pune",Chinese,189,153,2.8,210,72,36.0
+FTI College,"Indiranagar, Bangalore",Italian,363,153,1.9,390,121,
+Sector 3,Gurgaon,Italian,192,228,1.3,498,29,21.0
+Marathalli,"Law College Road, Pune",Chinese,189,88,1.7,539,187,59.0
+Sector 62,"Law College Road, Pune",Italian,214,228,3.1,562,287,34.0
+FTI College,"Law College Road, Pune",Italian,204,247,2.3,490,194,51.0
+Sector 62,"Indiranagar, Bangalore",Continental,490,183,4.3,441,155,58.0
+FTI College,"Marathalli, Bangalore",Indian,295,116,2.7,260,171,25.0
+Marathalli,"Indiranagar, Bangalore",Chinese,413,184,2.0,772,40,20.0
+Sector 3,Gurgaon,Continental,213,228,3.5,349,62,42.0
+Sector 3,Gurgaon,Indian,174,249,3.8,351,22,58.0
+Sector 3,Gurgaon,Italian,475,91,1.7,519,74,36.0
+FTI College,Gurgaon,Italian,316,241,1.7,319,47,53.0
+Marathalli,"Law College Road, Pune",Continental,376,293,1.1,137,159,48.0
+Sector 62,"Law College Road, Pune",Italian,348,64,3.9,549,117,28.0
+Marathalli,"Indiranagar, Bangalore",Mexican,263,160,3.7,622,99,32.0
+Sector 62,"Marathalli, Bangalore",Continental,493,206,2.9,991,166,25.0
+FTI College,Gurgaon,Indian,456,82,4.4,367,289,25.0
+FTI College,"Indiranagar, Bangalore",Continental,291,293,4.2,219,155,39.0
+Sector 62,"Law College Road, Pune",Chinese,326,271,3.3,336,6,22.0
+Sector 62,"Law College Road, Pune",Continental,276,280,4.5,222,195,36.0
+Sector 62,"Marathalli, Bangalore",Italian,198,204,1.8,647,55,31.0
+Marathalli,"Marathalli, Bangalore",Italian,135,213,1.4,767,192,20.0
+Sector 62,"Marathalli, Bangalore",Mexican,195,206,2.1,359,46,36.0
+FTI College,"Indiranagar, Bangalore",Mexican,251,87,1.2,920,147,22.0
+FTI College,"Law College Road, Pune",Mexican,250,234,3.1,328,274,45.0
+Sector 3,"Law College Road, Pune",Indian,289,146,4.7,961,156,34.0
+Sector 62,"Marathalli, Bangalore",Mexican,323,278,1.2,462,201,55.0
+Marathalli,Gurgaon,Indian,136,204,1.5,945,125,51.0
+Marathalli,"Marathalli, Bangalore",Mexican,367,232,2.8,962,293,51.0
+Marathalli,"Indiranagar, Bangalore",Indian,468,82,4.7,560,63,23.0
+Sector 3,"Marathalli, Bangalore",Continental,282,245,2.3,803,175,37.0
+FTI College,"Marathalli, Bangalore",Continental,112,135,3.0,381,115,38.0
+Marathalli,"Indiranagar, Bangalore",Italian,378,115,1.2,835,203,54.0
+FTI College,"Marathalli, Bangalore",Indian,316,59,1.6,589,30,59.0
+Sector 3,"Law College Road, Pune",Chinese,454,54,4.9,616,112,33.0
+Sector 62,Gurgaon,Italian,460,172,4.9,168,66,52.0
+Sector 62,"Marathalli, Bangalore",Continental,385,123,1.0,216,74,33.0
+Sector 62,"Indiranagar, Bangalore",Indian,372,146,4.8,377,44,53.0
+Marathalli,Gurgaon,Mexican,468,167,3.6,118,259,23.0
+Sector 62,"Indiranagar, Bangalore",Chinese,161,87,4.5,189,153,43.0
+Marathalli,Gurgaon,Continental,183,190,2.8,766,154,48.0
+Sector 3,Gurgaon,Italian,467,208,3.1,369,233,38.0
+Sector 3,"Marathalli, Bangalore",Indian,316,96,3.0,777,50,25.0
+Marathalli,"Law College Road, Pune",Chinese,441,277,3.7,148,261,52.0
+FTI College,"Marathalli, Bangalore",Indian,496,158,1.6,675,124,59.0
+Sector 62,"Indiranagar, Bangalore",Mexican,286,265,1.1,651,244,38.0
+Sector 62,"Indiranagar, Bangalore",Italian,118,229,2.2,858,29,
+Sector 62,Gurgaon,Indian,276,233,3.8,487,121,24.0
+Marathalli,Gurgaon,Continental,199,64,1.8,769,124,46.0
+Sector 3,"Law College Road, Pune",Italian,495,206,3.7,373,36,35.0
+Sector 62,"Marathalli, Bangalore",Continental,332,185,4.9,780,169,25.0
+Sector 3,"Indiranagar, Bangalore",Indian,175,54,1.4,692,123,59.0
+Sector 62,Gurgaon,Italian,364,206,3.7,159,34,32.0
+Sector 62,"Law College Road, Pune",Continental,383,96,2.8,350,86,54.0
+Marathalli,"Indiranagar, Bangalore",Mexican,305,117,4.5,911,133,38.0
+FTI College,Gurgaon,Mexican,322,125,1.7,287,195,31.0
+Marathalli,"Indiranagar, Bangalore",Indian,483,222,3.8,287,273,35.0
+Sector 62,"Law College Road, Pune",Italian,151,179,4.4,891,200,29.0
+Sector 62,"Law College Road, Pune",Chinese,438,204,4.8,225,284,44.0
+FTI College,"Indiranagar, Bangalore",Italian,466,144,3.7,522,76,39.0
+Sector 3,"Marathalli, Bangalore",Mexican,243,164,3.0,521,58,50.0
+Sector 3,"Indiranagar, Bangalore",Continental,472,292,3.5,782,125,23.0
+Sector 62,Gurgaon,Chinese,168,213,4.5,272,108,42.0
+Sector 3,"Marathalli, Bangalore",Indian,198,85,3.3,935,223,21.0
+Sector 62,Gurgaon,Chinese,495,75,1.1,401,277,41.0
+FTI College,"Indiranagar, Bangalore",Indian,124,92,4.7,182,67,56.0
+FTI College,"Marathalli, Bangalore",Chinese,478,76,3.8,968,68,27.0
+Sector 62,Gurgaon,Indian,152,118,3.7,664,164,26.0
+FTI College,"Indiranagar, Bangalore",Indian,250,197,1.9,487,161,33.0
+Marathalli,"Indiranagar, Bangalore",Chinese,243,60,3.6,826,41,22.0
+Marathalli,"Marathalli, Bangalore",Chinese,156,123,2.6,845,108,35.0
+FTI College,"Indiranagar, Bangalore",Indian,138,153,3.6,123,50,38.0
+Sector 62,"Law College Road, Pune",Mexican,208,87,1.4,984,249,37.0
+Sector 62,Gurgaon,Chinese,280,183,3.6,625,20,35.0
+FTI College,Gurgaon,Italian,141,249,5.0,789,299,27.0
+Sector 3,"Indiranagar, Bangalore",Continental,285,72,1.2,413,138,
+Marathalli,"Indiranagar, Bangalore",Indian,497,96,4.9,979,91,31.0
+Sector 3,"Law College Road, Pune",Indian,322,139,2.6,724,279,30.0
+Sector 62,"Marathalli, Bangalore",Continental,221,95,4.5,171,124,
+Sector 62,"Indiranagar, Bangalore",Mexican,232,156,4.1,287,110,46.0
+Sector 3,"Indiranagar, Bangalore",Continental,262,189,3.3,434,138,
+FTI College,"Indiranagar, Bangalore",Chinese,314,267,4.0,685,272,36.0
+Sector 3,"Indiranagar, Bangalore",Continental,320,190,4.5,112,98,25.0
+Sector 3,Gurgaon,Indian,334,153,2.6,887,251,52.0
+Marathalli,"Indiranagar, Bangalore",Continental,430,239,2.3,916,103,24.0
+Marathalli,Gurgaon,Italian,245,259,3.7,994,213,47.0
+Sector 3,"Indiranagar, Bangalore",Chinese,338,266,4.2,121,248,33.0
+Sector 3,"Marathalli, Bangalore",Continental,175,274,4.0,543,151,
+Sector 62,"Law College Road, Pune",Indian,108,160,4.2,221,249,52.0
+Marathalli,"Marathalli, Bangalore",Chinese,173,153,2.7,630,274,38.0
+Marathalli,"Indiranagar, Bangalore",Indian,352,109,4.3,38,164,41.0
+Sector 62,"Indiranagar, Bangalore",Mexican,329,220,1.5,496,7,24.0
+FTI College,"Indiranagar, Bangalore",Italian,106,253,3.2,779,283,21.0
+Marathalli,"Marathalli, Bangalore",Mexican,273,285,1.0,232,4,49.0
+Marathalli,"Indiranagar, Bangalore",Italian,240,149,2.3,942,144,58.0
+FTI College,"Marathalli, Bangalore",Continental,267,289,2.5,529,100,23.0
+Marathalli,Gurgaon,Chinese,269,117,2.6,148,163,52.0
+Marathalli,"Law College Road, Pune",Continental,492,182,3.8,396,146,32.0
+FTI College,"Law College Road, Pune",Italian,382,169,2.6,660,63,39.0
+FTI College,"Marathalli, Bangalore",Italian,221,86,2.8,637,90,26.0
+Sector 3,Gurgaon,Italian,293,121,2.0,903,116,
+Sector 62,"Marathalli, Bangalore",Indian,104,176,2.5,301,266,42.0
+Sector 62,Gurgaon,Chinese,128,155,1.9,359,172,33.0
+FTI College,"Indiranagar, Bangalore",Continental,264,290,1.3,237,46,42.0
+FTI College,Gurgaon,Continental,438,141,3.4,646,139,38.0
+Marathalli,Gurgaon,Mexican,235,80,3.7,662,245,48.0
+Sector 3,Gurgaon,Italian,464,171,3.5,235,148,
+Sector 3,"Law College Road, Pune",Italian,420,186,2.9,735,245,48.0
+FTI College,Gurgaon,Italian,441,295,2.5,202,4,43.0
+Marathalli,"Indiranagar, Bangalore",Continental,244,100,4.5,255,183,37.0
+Marathalli,"Indiranagar, Bangalore",Mexican,426,78,3.1,597,19,29.0
+Sector 62,"Indiranagar, Bangalore",Indian,316,255,2.9,661,45,27.0
+Sector 62,Gurgaon,Chinese,400,89,1.1,234,11,45.0
+Marathalli,"Marathalli, Bangalore",Indian,231,90,2.4,344,69,48.0
+Sector 62,"Marathalli, Bangalore",Continental,391,263,2.5,533,16,29.0
+FTI College,"Indiranagar, Bangalore",Italian,169,60,2.6,859,146,36.0
+Marathalli,"Law College Road, Pune",Chinese,351,200,3.3,796,153,21.0
+Sector 62,"Marathalli, Bangalore",Continental,374,50,3.1,780,107,25.0
+Sector 3,Gurgaon,Continental,463,95,3.4,465,235,24.0
+Marathalli,"Marathalli, Bangalore",Continental,281,150,4.1,769,69,47.0
